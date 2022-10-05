@@ -1,5 +1,5 @@
 
-Data and replication code for the paper "The Economic Impact of Schistosomiasis", Rinaldo et al., 2020
+Data and replication code for the paper "The Economic Impact of Schistosomiasis", Rinaldo et al., 2021
 
 The main replication file is the Main_Results.R script, which replicates the results and figures in the main body of the paper (unzip the compressed .csv file first)
 The SI replication code is SI+full_results_extra_figs_maps.R.
@@ -12,5 +12,5 @@ The raw survey dataset 2003-2017 is not public, and requires permission of the M
 We therefore include for replication purposes only the data used in the paper. For counting of repeated households throughout all years we include only year, village and household id. 
 Code for village geolocalization and full dataset creation available upon request (and availability of the data)
 
-Lausanne, 20-07-2020
+Lausanne, 20-07-2021
 Daniele Rinaldo
